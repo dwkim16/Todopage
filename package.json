@@ -1,0 +1,14 @@
+{
+  "name": "todopage",
+  "version": "1.0.0",
+  "description": "Todo Page for web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dowon Kim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
